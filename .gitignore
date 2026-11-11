@@ -1,5 +1,17 @@
+# Raw datasets
 raw_data/
+
+# Large Tableau exports
+tableau/*.csv
+
+# Python
 __pycache__/
 .ipynb_checkpoints/
+.venv/
+
+# Environment and secrets
 .env
 .streamlit/secrets.toml
+
+# System
+.DS_Store
