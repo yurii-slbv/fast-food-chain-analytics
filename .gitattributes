@@ -1,1 +1,1 @@
-*.sql linguist-generated=false linguist-detectable=true
+*.sql linguist-language=SQL linguist-detectable=true linguist-generated=false
