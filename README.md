@@ -67,7 +67,7 @@ notebooks/              Python analysis
 data/                   Aggregated analytical datasets
 raw_data/               Original CSVs (not included in GitHub)
 tableau/                Tableau workbook
-docs/                   Project documentation & presentation
+presentation/           Presentation .pptx
 
 app.py                  Streamlit application
 requirements.txt        Streamlit dependencies
