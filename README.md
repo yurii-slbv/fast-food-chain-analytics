@@ -17,6 +17,8 @@ The project addresses three key business questions:
 2. **Menu Profitability:** Which products generate the most revenue and gross profit, and where are the improvement opportunities?
 3. **Financial Impact:** How could changes in pricing, product costs, and sales volume affect gross profit?
 
+The goal is to give the restaurant chain’s CEO a complete toolkit for monitoring store performance, analyzing menu profitability, and estimating the financial impact of operational decisions.
+
 ## 2. Dataset
 
 Historical transactional and operational data from a US fast-food restaurant chain.
